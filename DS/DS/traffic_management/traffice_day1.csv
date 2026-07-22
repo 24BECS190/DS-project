@@ -1,0 +1,6 @@
+Junction,Vehicle_Count,Average_Speed,Congestion_Level
+J1,120,45,Low
+J2,250,30,High
+J3,180,40,Medium
+J4,,35,Medium
+J5,300,25,High
